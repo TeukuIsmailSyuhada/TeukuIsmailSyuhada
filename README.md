@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Teuku Ismail Syuhada 👋
+# Hi, I'm Teuku Ismail Syuhada 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Machine+Learning+%26+Computer+Vision+Explorer;Cloud+Computing+%26+Network+Security;Building+Practical+Software+Solutions" alt="Typing introduction" />
 
