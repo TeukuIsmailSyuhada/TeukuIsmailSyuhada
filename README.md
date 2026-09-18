@@ -1,38 +1,29 @@
 <div align="center">
 
-# Hi, I'm Teuku Ismail Syuhada 
+# Teuku Ismail Syuhada
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Machine+Learning+%26+Computer+Vision+Explorer;Cloud+Computing+%26+Network+Security;Building+Practical+Software+Solutions" alt="Typing introduction" />
+**Information Technology Student at Telkom University Surabaya**
 
+<img src="./conan.svg" width="420" alt="Conan coding animation" />
 
-<a href="https://github.com/TeukuIsmailSyuhada"><img src="https://img.shields.io/badge/GitHub-TeukuIsmailSyuhada-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=TeukuIsmailSyuhada&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+**Machine Learning & Computer Vision · Cloud Computing · Network Security · IoT Automation**
+
+<a href="https://github.com/TeukuIsmailSyuhada"><img src="https://img.shields.io/badge/GitHub-TeukuIsmailSyuhada-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=TeukuIsmailSyuhada&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
 
-<table><tr><td width="62%" valign="top">
-
-I'm an **Information Technology undergraduate at Telkom University Surabaya** with an interest in building practical and reliable technology solutions.
-
-My current focus is **Machine Learning and Computer Vision**, supported by experience in web and mobile development, databases, workflow systems, cloud computing, Linux, and computer networks.
-
-I enjoy transforming academic concepts and real business requirements into structured applications—from Odoo-based document workflows and approval systems to Flutter apps, Java web applications, and interactive simulations.
+I'm an **Information Technology undergraduate at Telkom University Surabaya** focused on building practical, reliable, and well-structured technology solutions.
 
 - 🎓 Information Technology Student — Telkom University Surabaya
-- 🔭 Working on software integration and Odoo-based workflow applications
+- 🔭 Building software integrations, Odoo workflows, and IoT automation systems
 - 🌱 Learning Machine Learning, Computer Vision, and cloud deployment
 - 🔐 Exploring Network Security and secure system development
+- ⚙️ Developing automation projects with ESP32 and sensor-based systems
 - 📍 Surabaya, Indonesia
-- 🤝 Open to academic collaboration, projects, and internship opportunities
-
-</td><td width="38%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Developer animation" />
-</td></tr></table>
-
 ---
 
 ## 🧠 What I'm Learning
@@ -69,6 +60,8 @@ I enjoy transforming academic concepts and real business requirements into struc
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/IoT%20Automation-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT Automation" />
 </p>
 
 ### Database, Cloud & Tools
@@ -98,6 +91,23 @@ I enjoy transforming academic concepts and real business requirements into struc
 <table>
 <tr><td width="50%" valign="top">
 
+### 🌡️ IoT DRY System
+
+An ESP32-based IoT automation system designed to monitor environmental conditions and automate the drying process using connected sensors and control components.
+
+**Focus:** ESP32 · IoT · Sensors · Automation · Embedded Systems
+
+</td><td width="50%" valign="top">
+
+### 🚪 SmartGate 3D
+
+Interactive automatic sliding-gate simulation with motion sensors, safety sensors, limit switches, motor controls, and real-time visual feedback.
+
+**Focus:** Three.js · JavaScript · Automation Simulation
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
 ### 📄 [TPTR Odoo Management](https://github.com/TeukuIsmailSyuhada/tptr-odoo)
 
 An Odoo-based Test Procedure and Test Report system with multi-stage review, approval, revision tracking, audit trails, SAT digitalization, and document distribution.
@@ -114,14 +124,6 @@ Enterprise workflow integration featuring authentication, organization context, 
 
 </td></tr>
 <tr><td width="50%" valign="top">
-
-### 🚪 SmartGate 3D
-
-Interactive automatic sliding-gate simulation with motion sensors, safety sensors, limit switches, motor controls, and real-time visual feedback.
-
-**Focus:** Three.js · JavaScript · Automation Simulation
-
-</td><td width="50%" valign="top">
 
 ### 📱 [Flutter Learning Projects](https://github.com/TeukuIsmailSyuhada/Try_flutter)
 
@@ -159,32 +161,3 @@ A web application project demonstrating PHP-based development, interface impleme
 - Backend and workflow-oriented system development
 - Building an undergraduate research project from a real-world problem
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeukuIsmailSyuhada&theme=tokyonight" width="95%" alt="GitHub profile details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeukuIsmailSyuhada&theme=tokyonight" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeukuIsmailSyuhada&theme=tokyonight" alt="GitHub statistics" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to discussing **Machine Learning, Computer Vision, Cloud Computing, Network Security, software development, and academic collaboration**.
-
-<a href="https://github.com/TeukuIsmailSyuhada"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="420" alt="Typing animation" />
-
-<br/>
-
-<b>Learning continuously, building thoughtfully, and turning ideas into useful technology.</b>
-
-</div>
