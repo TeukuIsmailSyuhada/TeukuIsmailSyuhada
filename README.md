@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Machine+Learning+%26+Computer+Vision+Explorer;Cloud+Computing+%26+Network+Security;Building+Practical+Software+Solutions" alt="Typing introduction" />
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="470" alt="Coding animation" />
-
-<br/><br/>
 
 <a href="https://github.com/TeukuIsmailSyuhada"><img src="https://img.shields.io/badge/GitHub-TeukuIsmailSyuhada-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=TeukuIsmailSyuhada&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
